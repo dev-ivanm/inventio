@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Administrador General",
+    "email": "admin@tienda.com",
+    "password": "admin123",
+    "role": "admin",
+    "avatar": "https://placehold.co/100"
+  },
+  {
+    "id": 2,
+    "name": "Carlos López",
+    "email": "vendedor@tienda.com",
+    "password": "user123",
+    "role": "vendedor",
+    "avatar": "https://placehold.co/100"
+  },
+  {
+    "id": 3,
+    "name": "María Rodríguez",
+    "email": "gerente@tienda.com",
+    "password": "user123",
+    "role": "gerente",
+    "avatar": "https://placehold.co/100"
+  }
+]
