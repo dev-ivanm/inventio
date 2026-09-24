@@ -1,2 +1,2 @@
-# inventio
+# Inventio
 gestor de Inventario
